@@ -1,7 +1,15 @@
 from unicodedata import name
 
 
-name = "Harry"
+#name = "Harry"
 
-for character in name:
-    print(character)
+#for character in name:
+    #print(character)
+
+#for i in range(100):
+    #print(i)
+
+#names = ["Harry", "Hermione", "Ron"]
+
+for name in names:
+    print(name)
